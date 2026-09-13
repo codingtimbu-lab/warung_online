@@ -2,5 +2,7 @@
   "name": "Warung POS & Sembako Online",
   "description": "Aplikasi manajemen warung sembako modern dengan kasir POS, cetak struk Bluetooth, mode offline, pemesanan online warga, analitik penjualan, dan ekspor laporan.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
